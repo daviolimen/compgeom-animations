@@ -1,0 +1,1 @@
+Animations I made using manim for a presentation on Computational Geometry
